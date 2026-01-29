@@ -4,11 +4,15 @@ Proud to share one of our recent university projects — a Smart Greenhouse Prot
 
 This project was developed as a team effort by:
 
-[Your Name]
-
 Marwan Hassan
 
 Tasnim Ahmed
+
+Mohammed Emad
+
+saif Hany
+
+Ali Ahmed
 
 This work would not have been possible without the collaboration, dedication, and teamwork of all members.
 
