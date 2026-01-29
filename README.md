@@ -11,10 +11,11 @@ Marwan Hassan
 Tasnim Ahmed
 
 This work would not have been possible without the collaboration, dedication, and teamwork of all members.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔹 Project Overview
 
 We designed and implemented an IoT-based Smart Greenhouse system that monitors plant conditions, automates control actions, and uses machine learning models to support better system decisions. The system combines sensors, actuators, and a mobile application to create a reliable and efficient greenhouse environment.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹 Components Used
 
