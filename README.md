@@ -16,7 +16,6 @@ This work would not have been possible without the collaboration, dedication, an
 
 We designed and implemented an IoT-based Smart Greenhouse system that monitors plant conditions, automates control actions, and uses machine learning models to support better system decisions. The system combines sensors, actuators, and a mobile application to create a reliable and efficient greenhouse environment.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 🔹 Components Used
 
 ESP32 microcontroller
@@ -32,7 +31,7 @@ DHT11 temperature & humidity sensor
 16×2 LCD with I2C module
 
 DC motors (water pump and fan)
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔹 Key Features
 
 🔐 RFID-based security:
@@ -49,14 +48,13 @@ The fan can be operated manually via the mobile application or automatically acc
 
 ⚠️ Motor protection logic:
 If the water level drops below 10%, the water pump is automatically disabled to prevent motor damage, even if watering is required.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔹 Machine Learning Models Used
 
 🌱 Plant Health Index (PHI) model: Used to estimate overall plant health.
 
 ⏱️ Hours-to-Dry model: Used to estimate soil drying time.
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project provided valuable hands-on experience in IoT systems, embedded programming, sensor integration, and applied machine learning, while strengthening teamwork and problem-solving skills.
 
 🚀🌿
